@@ -1,0 +1,157 @@
+##grflangid 0x01
+
+#Main grf title and description
+STR_GRF_NAME        :Zyliety's Animal Set V4
+STR_GRF_DESCRIPTION :Zyliety's Animal Set,2024/7/27{}License:GPLv2 or higher{}Graghics, Code by: GarryG, Zyliety
+STR_GRF_URL         :https://www.tt-forums.net/viewtopic.php?t=91773&start=20
+#error messages
+STR_OPENTTD_VERSION :1.2.0 (r22723)
+
+#object classes
+STR_ZYAS		:{YELLOW}Zyliety Animal set
+
+STR_ObjectMenu		:Object Menu
+
+STR_NAAS            :    Zyliety's Animal set
+STR_NATF	    :    Zoo Fencing
+STR_NADF	    :    Zoo Pathways
+STR_NADZ	    :    Zoo Animal Enclosure
+
+#object name and description
+STR_BEAR            	:Bears
+STR_Canada_Goose   	:Canada Goose
+STR_Cassowary     	:Cassowary
+STR_Dingos         	:Dingos
+STR_Duck           	:Ducks
+STR_duck_with_boat       :Ducks with boat and koi
+STR_duck_with_cattail       :Ducks with Cattail
+STR_Elephants      	:Elephants
+STR_Emus       	    	:Emus
+STR_Flamingo       	:Flamingos
+STR_Fox			:Foxes
+STR_Giraffe		:Giraffes
+STR_Goose		:Goose
+STR_Kangaroos		:Kangaroos
+STR_Panthers		:Panthers
+STR_Penguin		:Penguins
+STR_rabbit_warrens	:Rabbits
+STR_Red_Crowned_Crane	:Red Crowned Crane
+STR_Siberian_Roe_Deer	:Siberian Roe Deer
+STR_Sika_Deer		:Sika Deer
+STR_swan		:Swan
+STR_swan_black		:Black Swan
+STR_Wallaby		:Wallaby
+STR_Wombats		:Wombats
+STR_Seagull     :Seagull
+STR_Iions     :Iions
+
+
+STR_blackfence01	:Black Mesh Fence
+STR_blackfence02	:Black Mesh Fence
+STR_blackfence03	:Black Mesh Corner
+STR_blackfence04	:Black Mesh Corner
+STR_blackfence06	:Black Mesh Corner
+STR_blackfence08	:Black Mesh Gates
+
+STR_RailwayFences_003		:Wire Mesh Slope Aware (Diagonal)
+STR_RailwayFences_003_purchase_view1    :{BLACK}Top of Slopes
+STR_RailwayFences_003_purchase_view2    :{BLACK}Top of Slopes
+STR_RailwayFences_003_purchase_view3    :{BLACK}Bottom of Slopes
+STR_RailwayFences_003_purchase_view4    :{BLACK}Bottom of Slopes
+
+STR_RailwayFences_004		:Wire Mesh Slope Aware
+STR_RailwayFences_004_purchase_view1    :{BLACK}North West Side
+STR_RailwayFences_004_purchase_view2    :{BLACK}North East Side
+STR_RailwayFences_004_purchase_view3    :{BLACK}South East Side
+STR_RailwayFences_004_purchase_view4    :{BLACK}South West Side
+
+STR_Security_001		:Mesh wire Slope Aware
+STR_Security_002		:Mesh Corner wire Slope Aware
+STR_Security_003		:Mesh Gate wire Slope Aware
+
+STR_securityfence01	:Chain Wire Slope Aware
+
+STR_securityfence02		:Chain Wire (4)
+STR_securityfence02_purchase_view1    :{WHITE}Corners
+STR_securityfence02_purchase_view2    :{WHITE}with Supports
+STR_securityfence02_purchase_view3    :{WHITE}Gates
+STR_securityfence02_purchase_view4    :{WHITE}With Lights
+
+STR_fences01		:Brick Slope Aware
+STR_fences02		:Corners
+STR_ZooGates		:Zoo Entrance
+STR_fences03		:Wire Mesh Slope Aware
+STR_fences04		:Wire Mess Corner
+STR_fences05		:Wrought Iron Slope Aware
+STR_fences06		:Wrought Iron Corner
+STR_fences07		:Metal & Brick Slope Aware
+STR_fences08		:Corner
+
+STR_fences09		:Gates Closed (5)
+STR_fences09_purchase_view1    :{WHITE}North West
+STR_fences09_purchase_view2    :{WHITE}North East
+STR_fences09_purchase_view3    :{WHITE}South East
+STR_fences09_purchase_view4    :{WHITE}South West
+
+STR_fences10		:Stone Slope Aware
+STR_fences11		:Corners
+STR_fences12		:Wire Mesh Slope Aware
+STR_fences13		:Wire Mess Corner
+STR_fences14		:Wrought Iron Slope Aware
+STR_fences15		:Wrought Iron Corner
+STR_fences16		:Metal & Stone Slope Aware
+STR_fences17		:Corner
+
+STR_fences18		:Gates Closed (5)
+STR_fences18_purchase_view1    :{WHITE}North West
+STR_fences18_purchase_view2    :{WHITE}North East
+STR_fences18_purchase_view3    :{WHITE}South East
+STR_fences18_purchase_view4    :{WHITE}South West
+
+STR_Mesh_Fence		:Mesh Fence Slope Aware
+STR_Mesh_Fence_Corner	:Mesh Corners
+
+# Pathways
+
+STR_Pathways01	:Pathway Straights(6)
+STR_Pathways02	:Pathway Straights(6)
+STR_Pathways03  :Pathway Curves (4)
+STR_Pathways04  :Pathway Curves (4)
+STR_Pathways05  :Pathway Curves (4)
+STR_Pathways06  :Pathway Curves (4)
+STR_Pathways07	:Pathway T-Junctions(5)
+STR_Pathways08	:Pathway T-Junctions(5)
+STR_Pathways09	:Pathway T-Junctions(5)
+STR_Pathways10	:Pathway T-Junctions(5)
+STR_Pathways11	:Pathway X-Junctions(4)
+
+
+STR_ZooPaths04	:Stairs on Slope
+STR_ZooPaths08	:Stairs on Slope
+STR_ZooPaths14	:Stairs on Slope
+STR_ZooPaths13	:Stairs on Slope
+
+STR_ZooPaths16	:Toilets & Picnic Area
+STR_ZooPaths17	:Gazebos
+
+# Zoo Animal Enclosure
+
+STR_DubboZoo01		:Corners with Water
+STR_DubboZoo02		:Straight with Water
+STR_DubboZoo05		:Water Ends
+STR_DubboZoo06		:Water Ends
+
+STR_DubboZoo03		:Corners
+STR_DubboZoo04		:Straight
+STR_DubboZoo07		:Transition Wall to Fence
+STR_DubboZoo08		:Transition Wall to Fence
+
+STR_LowMeshFence01	:Mesh Fence Slope Aware
+STR_LowMeshFence02	:Corners
+STR_LowMeshFence03	:With Supports
+STR_LowMeshFence04	:Gates
+
+
+STR_WoodenRailFence01	:Slope Aware
+STR_WoodenRailFence02	:Corners
+STR_WoodenRailFence03	:Gates
