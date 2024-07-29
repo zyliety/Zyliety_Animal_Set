@@ -1,2 +1,2 @@
 # Zyliety-s_Animal_Set
-Zyliety's Animal Set include animals, paths, and fence.
+Zyliety's Animal Set include animals, paths, and fences.
