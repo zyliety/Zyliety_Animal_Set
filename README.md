@@ -1,7 +1,7 @@
 # Zyliety_Animal_Set
 Zyliety's Animal Set include animals, paths, and fences.
 
-Special thanks to GarryG.
+Special thanks to GarryG help with me.
 
 Preview:
 
